@@ -23977,4 +23977,14 @@
         <Type>Script</Type>
         <Description>Autosplitter</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Awaria</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Sylwyn/Autosplitter-Awaria/blob/main/awariasplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter</Description>
+    </AutoSplitter>
 </AutoSplitters>
